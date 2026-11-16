@@ -3,7 +3,7 @@
 #!author=@ways0210
 #!homepage=https://nsloon.app/docs/General/#include-tun
 #!loon_version=3.5.3(1007)
-#!icon=https://gh-proxy.com/https://raw.githubusercontent.com/lige47/lige_icon/main/icon/debug.png
+#!icon=https://cdn.jsdelivr.net/gh/ways0210/Loop@main/Loon_Loop.png
 
 [General]
 include-tun = 10.7.0.1/32,10.7.0.2/32
