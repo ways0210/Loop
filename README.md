@@ -3,8 +3,9 @@ Loon的本机开发服务回环
 
 直接在 Loon 的“插件”模块添加订阅即可
 
-主代码由Loon官方提供，个人仅作创建及小部分修改
-参考地址
+主代码由Loon官方提供
+个人仅作创建及小部分修改
+Loon官方参考地址
 https://nsloon.app/docs/General/#include-tun
 
 订阅地址
