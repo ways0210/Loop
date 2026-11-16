@@ -8,7 +8,7 @@ Loon的本机开发服务回环
 Loon官方参考地址
 https://nsloon.app/docs/General/#include-tun
 
-订阅地址 手动复制 
+订阅地址 手动复制  
 https://gh-proxy.com/https://raw.githubusercontent.com/ways0210/Loop/main/dev-loopback.lpx
 
 直接跳转到Loon  
