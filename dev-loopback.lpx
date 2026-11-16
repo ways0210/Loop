@@ -1,5 +1,5 @@
 #!name=Loon 本机开发服务回环
-#!desc=配置[General]中添加参数 include-tun，与 bypass-tun 作用相反：让指定 IPv4 网段进入 Loon 的 TUN。
+#!desc=配置[General]中添加参数 include-tun，与 bypass-tun 搭配，用于本地IP抓包
 #!author=@ways0210
 #!notice=文档参考：https://nsloon.app/docs/General/#include-tun
 #!min-version=3.5.3(1007)
