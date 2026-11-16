@@ -11,5 +11,5 @@ https://nsloon.app/docs/General/#include-tun
 订阅地址 手动复制 
 https://gh-proxy.com/https://raw.githubusercontent.com/ways0210/Loop/main/dev-loopback.lpx
 
-点击直接跳转到Loon  
-loon://import?plugin=https%3A%2F%2Fgh-proxy.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fways0210%2FLoop%2Fmain%2Fdev-loopback.lpx
+直接跳转到Loon  
+[一键导入](loon://import?plugin=https%3A%2F%2Fgh-proxy.com%2Fhttps%3A%2F%2Fraw.githubusercontent.com%2Fways0210%2FLoop%2Fmain%2Fdev-loopback.lpx)
